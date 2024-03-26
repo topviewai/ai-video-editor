@@ -1,4 +1,4 @@
-# ai-video-editor
+# TopView AI video editor
 Best ai video editor ever
 
 ##
