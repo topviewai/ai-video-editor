@@ -36,3 +36,6 @@ This AI-driven approach also allows for a high degree of customization. Users ca
 TopView.ai represents a significant step forward in the field of video editing. By harnessing the power of AI, it offers a user-friendly, efficient, and effective solution for creating high-quality videos. Whether you're a small business owner looking to promote your product, a content creator seeking to engage your audience, or a professional video editor in need of a powerful tool, TopView.ai is a game-changer.
 
 As AI continues to evolve and improve, we can expect to see even more innovative applications in the world of video editing. TopView.ai is leading the way in this exciting new frontier, demonstrating the transformative potential of AI in creative industries. The future of video editing is here, and it's powered by AI.
+
+## API
+Release soon.
