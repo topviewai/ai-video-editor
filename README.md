@@ -17,11 +17,13 @@ TopView.ai is not just another video editing tool. It's a revolutionary platform
 
 1. **Upload and Describe:** Users start by uploading their video materials and providing a brief description of their product. This initial step allows the AI to understand the context and purpose of the video, which it uses to guide the editing process.
 
-
+![To upload and describe](https://raw.githubusercontent.com/topviewai/ai-video-editor/main/m2v-step1.png)
 
 2. **Script Generation:** Based on the analysis of millions of ad videos, TopView.ai generates a range of viral video script hooks. Users can then choose a script that aligns with their vision and message. This feature eliminates the need for a professional scriptwriter, saving time and resources.
+![Script Generation](https://raw.githubusercontent.com/topviewai/ai-video-editor/main/m2v-step2.png)
 
 3. **AI-Powered Editing:** Once the script is chosen, the AI takes over. It organizes the uploaded videos according to the selected script, creating a cohesive and engaging narrative. Users can then preview the video and make any necessary adjustments before exporting the final product.
+![AI-Powered Editing](https://raw.githubusercontent.com/topviewai/ai-video-editor/main/m2v-step3.png)
 
 ## The Power of AI in Video Production
 
